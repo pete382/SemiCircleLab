@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\SemiCircleLab\obj\Debug\net8.0\SemiCircleLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\SemiCircleLab\obj\Debug\net8.0\SemiCircleLab.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\SemiCircleLab\obj\Debug\net8.0\SemiCircleLab.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\SemiCircleLab\obj\Debug\net8.0\SemiCircleLab.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\SemiCircleLab\bin\Debug\net8.0\SemiCircleLab.exe
+C:\Users\Administrator\source\repos\SemiCircleLab\bin\Debug\net8.0\SemiCircleLab.deps.json
+C:\Users\Administrator\source\repos\SemiCircleLab\bin\Debug\net8.0\SemiCircleLab.runtimeconfig.json
+C:\Users\Administrator\source\repos\SemiCircleLab\bin\Debug\net8.0\SemiCircleLab.dll
+C:\Users\Administrator\source\repos\SemiCircleLab\bin\Debug\net8.0\SemiCircleLab.pdb
+C:\Users\Administrator\source\repos\SemiCircleLab\obj\Debug\net8.0\SemiCircleLab.dll
+C:\Users\Administrator\source\repos\SemiCircleLab\obj\Debug\net8.0\refint\SemiCircleLab.dll
+C:\Users\Administrator\source\repos\SemiCircleLab\obj\Debug\net8.0\SemiCircleLab.pdb
+C:\Users\Administrator\source\repos\SemiCircleLab\obj\Debug\net8.0\SemiCircleLab.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\SemiCircleLab\obj\Debug\net8.0\ref\SemiCircleLab.dll
